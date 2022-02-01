@@ -4,6 +4,9 @@
   "main": "index.js",
   "author": "Pedro Lontro (Drinnn)",
   "license": "ISC",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.17.2",
